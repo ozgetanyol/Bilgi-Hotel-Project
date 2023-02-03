@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{069D98F9-E8E8-4CCD-B2DB-991594F041D7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Entity</RootNamespace>
+    <AssemblyName>Entity</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CinsiyetEntity.cs" />
+    <Compile Include="DilEntity.cs" />
+    <Compile Include="DurumKategoriEntity.cs" />
+    <Compile Include="GorevlerEntity.cs" />
+    <Compile Include="KampanyalarEntity.cs" />
+    <Compile Include="KampanyaOdaEntity.cs" />
+    <Compile Include="KartBilgileriEntity.cs" />
+    <Compile Include="KonaklamaTipiEntity.cs" />
+    <Compile Include="KullaniciEntity.cs" />
+    <Compile Include="KullaniciMusteriEntity.cs" />
+    <Compile Include="KullaniciPersonelEntity.cs" />
+    <Compile Include="KullaniciTipiEntity.cs" />
+    <Compile Include="MesaiPersonelEntity.cs" />
+    <Compile Include="MisafirEntity.cs" />
+    <Compile Include="MisafirOdaEntity.cs" />
+    <Compile Include="MisafirPersonelEntity.cs" />
+    <Compile Include="MusterilerEntity.cs" />
+    <Compile Include="MusteriMisafirSatisEntity.cs" />
+    <Compile Include="MusteriPersonelEntity.cs" />
+    <Compile Include="MusteriRezervasyonEntity.cs" />
+    <Compile Include="OdaDurumEntity.cs" />
+    <Compile Include="OdalarEntity.cs" />
+    <Compile Include="OdaResimlerEntity.cs" />
+    <Compile Include="OdaSatisTipEntity.cs" />
+    <Compile Include="OdaTipiEntity.cs" />
+    <Compile Include="PersonelDillerEntity.cs" />
+    <Compile Include="PersonelEntity.cs" />
+    <Compile Include="PersonelKategoriEntity.cs" />
+    <Compile Include="PersonelOdaEntity.cs" />
+    <Compile Include="PersonelVardiyaEntity.cs" />
+    <Compile Include="PersonelYetkiEntity.cs" />
+    <Compile Include="ResimlerEntity.cs" />
+    <Compile Include="RezervasyonEntity.cs" />
+    <Compile Include="RezervasyonPersonelEntity.cs" />
+    <Compile Include="RezervasyonTipEntity.cs" />
+    <Compile Include="SatisEntity.cs" />
+    <Compile Include="SatisPersonelEntity.cs" />
+    <Compile Include="SehirEntity.cs" />
+    <Compile Include="UlkeEntity.cs" />
+    <Compile Include="VardiyalarEntity.cs" />
+    <Compile Include="YetkilerEntity.cs" />
+    <Compile Include="İlceEntity.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

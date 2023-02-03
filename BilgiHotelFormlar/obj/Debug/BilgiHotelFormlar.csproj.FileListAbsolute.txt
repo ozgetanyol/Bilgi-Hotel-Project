@@ -1,0 +1,93 @@
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Form1.resources
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Musteriler.resources
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Properties.Resources.resources
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.GenerateResource.cache
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\BilgiHotelFormlar.exe.config
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\BilgiHotelFormlar.exe
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\BilgiHotelFormlar.pdb
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\BilgiHotelDAL.dll
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\Entity.dll
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\BilgiHotelDAL.pdb
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\Entity.pdb
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\Entity.dll.config
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.CopyComplete
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.exe
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.pdb
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\BilgiHotelFormlar.exe.config
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\BilgiHotelFormlar.exe
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\BilgiHotelFormlar.pdb
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\BilgiHotelDAL.dll
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\Entity.dll
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\BilgiHotelDAL.pdb
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\Entity.pdb
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\Entity.dll.config
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Anasayfa.resources
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Musteriler.resources
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Properties.Resources.resources
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.GenerateResource.cache
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.CopyComplete
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.exe
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.pdb
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.KullaniciGiris.resources
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\BilgiHotelFormlar.exe.config
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\BilgiHotelFormlar.exe
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\BilgiHotelFormlar.pdb
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\BilgiHotelDAL.dll
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\Entity.dll
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\BilgiHotelDAL.pdb
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\Entity.pdb
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\bin\Debug\Entity.dll.config
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Anasayfa.resources
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.KullaniciGiris.resources
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Musteriler.resources
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Properties.Resources.resources
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.GenerateResource.cache
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.CopyComplete
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.exe
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.pdb
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Personeller.resources
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Odalar.resources
+C:\Users\ISKUR\Desktop\Ders\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.PersonelVardiya.resources
+C:\Users\ISKUR\Desktop\Ders\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Ayarlar.resources
+C:\Users\ISKUR\Desktop\Ders\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Kampanyalar.resources
+C:\Users\ISKUR\Desktop\Ders\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Misafir.resources
+C:\Users\ISKUR\Desktop\Ders\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Rezervasyon.resources
+C:\Users\ISKUR\Desktop\Ders\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Satis.resources
+C:\Users\ISKUR\Desktop\Ders\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.OdaDurum.resources
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\bin\Debug\BilgiHotelFormlar.exe.config
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\bin\Debug\BilgiHotelFormlar.exe
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\bin\Debug\BilgiHotelFormlar.pdb
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\bin\Debug\BilgiHotelDAL.dll
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\bin\Debug\Entity.dll
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\bin\Debug\BilgiHotelDAL.pdb
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\bin\Debug\Entity.pdb
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\bin\Debug\Entity.dll.config
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.AssemblyReference.cache
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Anasayfa.resources
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Ayarlar.resources
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Kampanyalar.resources
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.KullaniciGiris.resources
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Misafir.resources
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Musteriler.resources
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.OdaDurum.resources
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Odalar.resources
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Personeller.resources
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.PersonelVardiya.resources
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Properties.Resources.resources
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Rezervasyon.resources
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.Satis.resources
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.GenerateResource.cache
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.CoreCompileInputs.cache
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.csproj.CopyComplete
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.exe
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelFormlar\obj\Debug\BilgiHotelFormlar.pdb

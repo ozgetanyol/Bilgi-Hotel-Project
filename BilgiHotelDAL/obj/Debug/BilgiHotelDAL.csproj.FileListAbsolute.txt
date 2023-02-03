@@ -1,0 +1,40 @@
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\bin\Debug\BilgiHotelDAL.dll
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\bin\Debug\BilgiHotelDAL.pdb
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\bin\Debug\Entity.dll
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\bin\Debug\Entity.pdb
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\bin\Debug\Entity.dll.config
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.csproj.CopyComplete
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.dll
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.pdb
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\bin\Debug\BilgiHotelDAL.dll
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\bin\Debug\BilgiHotelDAL.pdb
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\bin\Debug\Entity.dll
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\bin\Debug\Entity.pdb
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\bin\Debug\Entity.dll.config
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.csproj.CopyComplete
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.dll
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.pdb
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\bin\Debug\BilgiHotelDAL.dll
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\bin\Debug\BilgiHotelDAL.pdb
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\bin\Debug\Entity.dll
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\bin\Debug\Entity.pdb
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\bin\Debug\Entity.dll.config
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.csproj.CopyComplete
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.dll
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.pdb
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelDAL\bin\Debug\BilgiHotelDAL.dll
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelDAL\bin\Debug\BilgiHotelDAL.pdb
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelDAL\bin\Debug\Entity.dll
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelDAL\bin\Debug\Entity.pdb
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelDAL\bin\Debug\Entity.dll.config
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.csproj.AssemblyReference.cache
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.csproj.CoreCompileInputs.cache
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.csproj.CopyComplete
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.dll
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\BilgiHotelDAL\obj\Debug\BilgiHotelDAL.pdb

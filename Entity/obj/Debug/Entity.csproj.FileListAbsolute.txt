@@ -1,0 +1,35 @@
+C:\Users\ISKUR\Desktop\farecuval\.NET\WinForms\Entity\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\WinForms\Entity\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\WinForms\Entity\Entity\bin\Debug\Entity.dll.config
+C:\Users\ISKUR\Desktop\farecuval\.NET\WinForms\Entity\Entity\bin\Debug\Entity.dll
+C:\Users\ISKUR\Desktop\farecuval\.NET\WinForms\Entity\Entity\bin\Debug\Entity.pdb
+C:\Users\ISKUR\Desktop\farecuval\.NET\WinForms\Entity\Entity\obj\Debug\Entity.dll
+C:\Users\ISKUR\Desktop\farecuval\.NET\WinForms\Entity\Entity\obj\Debug\Entity.pdb
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\Entity\bin\Debug\Entity.dll.config
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\Entity\bin\Debug\Entity.dll
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\Entity\bin\Debug\Entity.pdb
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\Entity\obj\Debug\Entity.dll
+C:\Users\ISKUR\Desktop\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\Entity\obj\Debug\Entity.pdb
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\Entity\bin\Debug\Entity.dll.config
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\Entity\bin\Debug\Entity.dll
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\Entity\bin\Debug\Entity.pdb
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\Entity\obj\Debug\Entity.dll
+C:\Users\ISKUR\Desktop\DERS\Entity-20221203T182558Z-001\Entity-20221203T182558Z-001\Entity\Entity\obj\Debug\Entity.pdb
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\Entity\bin\Debug\Entity.dll.config
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\Entity\bin\Debug\Entity.dll
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\Entity\bin\Debug\Entity.pdb
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\Entity\obj\Debug\Entity.dll
+C:\Users\ISKUR\Desktop\DERS\Bilgi Hotel Project\Entity-20221203T182558Z-001\Entity\Entity\obj\Debug\Entity.pdb
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\Entity\bin\Debug\Entity.dll.config
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\Entity\bin\Debug\Entity.dll
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\Entity\bin\Debug\Entity.pdb
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\Entity\obj\Debug\Entity.dll
+C:\Users\ozget\Desktop\Bilgi Hotel Project\Bilgi Hotel Project\Bilgi Hotel Project\Entity\obj\Debug\Entity.pdb

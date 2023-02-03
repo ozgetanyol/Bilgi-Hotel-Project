@@ -1,0 +1,7 @@
+C:\Users\ISKUR\Desktop\farecuval\.NET\WinForms\Entity\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\WinForms\Entity\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\farecuval\.NET\WinForms\Entity\Entity\bin\Debug\Entity.dll.config
+C:\Users\ISKUR\Desktop\farecuval\.NET\WinForms\Entity\Entity\bin\Debug\Entity.dll
+C:\Users\ISKUR\Desktop\farecuval\.NET\WinForms\Entity\Entity\bin\Debug\Entity.pdb
+C:\Users\ISKUR\Desktop\farecuval\.NET\WinForms\Entity\Entity\obj\Debug\Entity.dll
+C:\Users\ISKUR\Desktop\farecuval\.NET\WinForms\Entity\Entity\obj\Debug\Entity.pdb
